@@ -10,7 +10,7 @@ Booth MBA · CFA · 7 granted CBTC patents · 13 peer-reviewed papers.
 
 Newly published
 Communications-Based Train Control — a two-volume technical reference written for US transit professionals. April 2026.
-Volume 1 — Foundations & Technical Architecture533 pp · ISBN 9798284614525Volume 2 — Operations, Deployment & Economics594 pp · ISBN 9798263901564
+Volume 1 — Foundations & Technical Architecture533 pp · ISBN 979-8-258-54295-3Volume 2 — Operations, Deployment & Economics594 pp · ISBN 979-8-258-54528-2
 1,127 pages · 78 original technical figures · drawn from twenty years of US deployment practice and international benchmarking.
 → Companion site: cbtcbook.com
 → Buy: Vol 1 on Amazon · Vol 2 on Amazon
